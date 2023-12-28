@@ -35,7 +35,7 @@ npm install
 # Move to the backend directory
 
  ```bash
-cd ../grocery-inventory-api
+cd grocery-inventory-api
 npm install
  ```
 
