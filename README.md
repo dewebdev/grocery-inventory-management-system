@@ -66,4 +66,4 @@ Use the input field to add new grocery items, and they will be displayed in the 
 
 ### Demo
 
-[Link to Demo Video]
+https://drive.google.com/file/d/1QrpQTcSo8Sy43agMlsBJ96gAi0Rx2V4j/view?usp=sharing
