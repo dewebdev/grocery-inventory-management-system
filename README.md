@@ -27,27 +27,35 @@ Follow these steps to run the application locally:
 
 # Move to the frontend directory
 
+ ```bash
 cd grocery-inventory-management-system
 npm install
+ ```
 
 # Move to the backend directory
 
+ ```bash
 cd ../grocery-inventory-api
 npm install
+ ```
 
 ### Running the Application
 
 1. Start the backend server:
 
+ ```bash
 cd grocery-inventory-api
 node index.js
+ ```
 
 The server will run on http://localhost:5000.
 
 2. In a new terminal, start the React app:
 
+ ```bash
 cd grocery-inventory-management-system
 npm start
+ ```
 
 The React app will be available at http://localhost:3000.
 
