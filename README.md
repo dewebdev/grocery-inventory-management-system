@@ -20,7 +20,7 @@ Follow these steps to run the application locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/deWebDev/grocery-inventory.git
+   git clone https://github.com/dewebdev/grocery-inventory-management-system.git
    ```
 
 ### Install dependencies for the frontend and backend:
@@ -67,7 +67,3 @@ Use the input field to add new grocery items, and they will be displayed in the 
 ### Demo
 
 [Link to Demo Video]
-
-### Author
-
-[Your Name]
